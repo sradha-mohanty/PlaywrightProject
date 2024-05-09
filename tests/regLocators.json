@@ -1,0 +1,13 @@
+{
+"register":
+{
+    "registerBtn":".ico-register",
+    "gender_female":"#gender-female",
+    "gender_male":"#gender-male",
+    "first_name":"#FirstName",
+    "last_name":"#LastName",
+    "DOB_date":"//select[@name='DateOfBirthDay']",
+    "DOB_month":"//select[@name='DateOfBirthMonth']",
+    "DOB_year":"//select[@name='DateOfBirthYear']"
+}
+}
